@@ -1,0 +1,2 @@
+Date,Time,Serial number,Datum ID,Session ID,Data format version,Firmware version,Date / Time GMT,Timezone offset,GPS lat,GPS long,GPS Speed,Timebase,Status,Battery,Accel X,Accel Y,Accel Z,Tape position,Flow setpoint,Flow total,Sample temp,Sample RH,Sample dewpoint,Int pressure,Int temp,Optical config,UV Sen1,UV Ref,UV ATN1,Blue Sen1,Blue Ref,Blue ATN1,Green Sen1,Green Ref,Green ATN1,Red Sen1,Red Ref,Red ATN1,IR Sen1,IR Ref,IR ATN1,UV BC1,Blue BC1,Green BC1,Red BC1,IR BC1,CKSUM
+##########

@@ -1,0 +1,27 @@
+Baiden passec section 1
+Baiden passec section 2
+Unable to find symbolically linked port
+Before:
+0: /dev/ttyUSB0
+1: /dev/ttyUSB1
+After:
+/dev/ttyUSB0
+/dev/ttyUSB1
+Baiden passec section 3
+Baiden passec section 4
+(AEROCET531s): Empty output log. Writing header.
+(SD4023): Empty output log. Writing header.
+(CO2): Empty output log. Writing header.
+(FLOW): Empty output log. Writing header.
+(AM): Empty output log. Writing header
+(MA200): Empty output log. Writing header.
+Baiden passec section 5
+Baiden passec section 7
+(SD_4023): Initializing device
+(SD_4023): Serial connection established
+(AEROCET531s): Initializing device
+(AEROCET531s): Serial connection established
+(MA200): Initializing device
+(MA200): Could not open serial port /dev/aethlabs
+SUCCESS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Inside # Command

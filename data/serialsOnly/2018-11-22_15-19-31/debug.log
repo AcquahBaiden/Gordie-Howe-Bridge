@@ -1,0 +1,249 @@
+Baiden passec section 1
+Baiden passec section 2
+Before:
+0: /dev/ttyUSB0
+1: /dev/ttyUSB1
+After:
+/dev/ttyUSB0
+/dev/ttyUSB1
+Baiden passec section 3
+Baiden passec section 4
+(AEROCET531s): Empty output log. Writing header.
+(SD4023): Empty output log. Writing header.
+Baiden passec section 7
+(SD_4023): Initializing device
+(SD_4023): Could not close port.
+(AEROCET531s): Successfully closed serial port
+[Errno 5] Input/output error
+ERROR: Recieved IOError exception, retrying...
+(SD_4023): Initializing device
+(SD_4023): Successfully closed serial port
+(AEROCET531s): Successfully closed serial port
+Can only operate on a valid file descriptor
+ERROR: Recieved IOError exception, retrying...
+(SD_4023): Initializing device
+(SD_4023): Serial connection established
+(AEROCET531s): Initializing device
+(SD_4023): Successfully closed serial port
+(AEROCET531s): Could not close port
+[Errno 5] Input/output error
+ERROR: Recieved IOError exception, retrying...
+(SD_4023): Initializing device
+(SD_4023): Serial connection established
+(AEROCET531s): Initializing device
+(SD_4023): Successfully closed serial port
+(AEROCET531s): Successfully closed serial port
+Can only operate on a valid file descriptor
+ERROR: Recieved IOError exception, retrying...
+(SD_4023): Initializing device
+(SD_4023): Serial connection established
+(AEROCET531s): Initializing device
+(AEROCET531s): Serial connection established
+SUCCESS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Inside # Command
+Activating comm mode
+Baiden passed section 5
+about to call sd_thread
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Activating comm mode
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Baiden passed section 5
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
+Inside SD thread
+Checking condition 2
+About to read from sdObject
